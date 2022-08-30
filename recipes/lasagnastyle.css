@@ -1,0 +1,43 @@
+html {
+
+    background-color: lightsalmon;
+
+}
+
+h1 {
+
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+img {
+
+    height: auto;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+h3{
+
+    text-decoration: underline;
+
+}
+
+p,
+li {
+
+    font-size: 17px;
+
+}
+
+#home {
+
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
