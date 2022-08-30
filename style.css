@@ -1,9 +1,16 @@
+h1 {
+
+    text-align: center;
+    text-decoration: underline;
+
+}
+
 .button {
 
     font-weight: bold;
     font-size: 20px;
     color: white;
-    
+
 }
 
 #chicken {
