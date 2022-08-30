@@ -1,0 +1,25 @@
+.button {
+
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    
+}
+
+#chicken {
+
+    background-color: yellow;
+
+}
+
+#lasagna {
+
+    background-color: orange;
+    
+}
+
+#salad {
+
+    background-color: green;
+    
+}
