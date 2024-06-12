@@ -1,0 +1,25 @@
+body {
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(241, 185, 63);
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    text-decoration-line: underline;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    align-self: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: black;
+}
